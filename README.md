@@ -1,4 +1,4 @@
-FBS-Console – Terminal de Maintenance Windows
+-Console – Terminal de Maintenance Windows
 Présentation
 
 FBS-Console est un script .bat complet et interactif conçu pour effectuer la maintenance et l’optimisation de Windows 10 et 11.
